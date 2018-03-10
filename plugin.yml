@@ -1,0 +1,4 @@
+main: com.icodehaven.cannonplatforms.Core
+name: CannonPlatforms
+version: 1.0.0
+authors: [iCodeHaven]

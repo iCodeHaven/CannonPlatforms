@@ -1,0 +1,5 @@
+settings:
+  materials:
+    - BEDROCK
+    - EMERALD_BLOCK
+    - IRON_BLOCK
